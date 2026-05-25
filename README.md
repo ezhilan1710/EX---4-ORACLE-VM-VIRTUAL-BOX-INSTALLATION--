@@ -1,7 +1,7 @@
 # EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 
 ### Name : Ezhilan N
-### Reg no: 21222403007
+### Reg no: 212224030007
 
 ### Aim
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system, enabling the creation and management of virtual machines for running multiple operating systems on a single host machine.
